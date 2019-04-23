@@ -1,0 +1,15 @@
+EUR-USD: cut off period = 17,  cut off period(MAPE):1
+Airbus: cut off period = 2,  cut off period(MAPE):1
+Apple: cut off period = 3,  cut off period(MAPE):1
+AUDI: cut off period = 4,  cut off period(MAPE):1
+BMW: cut off period = 2,  cut off period(MAPE):1
+Deutsche Bank: cut off period = 2,  cut off period(MAPE):1
+EUR-GBP: cut off period = 3,  cut off period(MAPE):1
+Ford: cut off period = 2,  cut off period(MAPE):1
+GBP-USD: cut off period = 6,  cut off period(MAPE):1
+Gold: cut off period = 3,  cut off period(MAPE):1
+IBM: cut off period = 5,  cut off period(MAPE):1
+J.P. Morgan: cut off period = 2,  cut off period(MAPE):1
+JPY-USD: cut off period = 37,  cut off period(MAPE):1
+Microsoft: cut off period = 2,  cut off period(MAPE):1
+Oil Brent: cut off period = 2,  cut off period(MAPE):1
